@@ -2,6 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 
 public class AddSolveByMyselfLabels {
+    //this panel appears only when maze is getting solved by player
     JLabel timerLabel = new JLabel("Time: 00:00");
     JLabel pathLenghtLabel = new JLabel("Moves: 0");
     JLabel levelName = new JLabel();

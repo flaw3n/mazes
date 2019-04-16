@@ -165,7 +165,6 @@ public class Maze extends JPanel implements Runnable, KeyListener {
             mySolution.currentPositionY = mySolution.currentPositionY + 1;
         }
     }
-    //sgdrehhg
     /**
      * I don't use situations when keys are released
      * so this is empty
